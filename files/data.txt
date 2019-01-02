@@ -1,0 +1,4 @@
+Name: Sergey
+Post message: Hello
+Name: Vika
+Post message: world
